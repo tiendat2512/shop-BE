@@ -23,8 +23,5 @@
     "node-version-alias": "^5.0.0",
     "nodemon": "^3.0.1",
     "redux-persist": "^6.0.0"
-  },
-  "engines": {
-    "node": ">=18.18.0 <19.0.0"
   }
 }
